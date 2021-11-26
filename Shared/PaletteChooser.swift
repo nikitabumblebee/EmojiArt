@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-/// Provides access to palette selection chose
+/// Provides access to palette selection chose.
 struct PaletteChooser: View {
     var emojiFontSize: CGFloat = 40
     var emojiFont: Font { .system(size: emojiFontSize) }
